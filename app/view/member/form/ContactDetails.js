@@ -69,6 +69,7 @@ Ext.define('erp.view.member.form.ContactDetails',{
                     fieldLabel:'Receive Sms Notifications',
                     xtype: 'textfield',
                     name : 'emailAddress',
+
                 },
                 {
                     fieldLabel:'Receive App Notification',
