@@ -75,6 +75,7 @@ Ext.define('erp.view.member.form.ContactDetails',{
                     fieldLabel:'Receive App Notification',
                     xtype: 'textfield',
                     name : 'emailAddress',
+
                 }
             ]
         }
